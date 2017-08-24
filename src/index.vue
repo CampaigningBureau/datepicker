@@ -90,24 +90,3 @@ export default {
   }
 }
 </script>
-
-<style lang="stylus">
-$calendar_background = #ffffff
-$calendar_border_color = #d3d6db
-
-$months_color = #111
-$months_background = transparent
-
-$weekdays_background = transparent
-
-$day_text_color = #222324
-$day_hover_background_color = #d3d6db
-
-$today_color = #ed6c63
-$selected_day_background = #1fc8db
-
-@import '~flatpickr/src/style/flatpickr'
-
-.flatpickr-calendar.hasWeeks
-  width: auto !important
-</style>

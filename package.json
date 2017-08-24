@@ -1,19 +1,14 @@
 {
-  "name": "vue-bulma-datepicker",
+  "name": "vue-datepicker",
   "version": "1.3.6",
-  "description": "Datepicker Component for Vue Bulma",
+  "description": "Datepicker Component for Vue",
   "main": "src/index.vue",
   "peerDependencies": {
-    "bulma": ">=0.2",
     "vue": ">=2"
   },
-  "repository": "vue-bulma/datepicker",
+  "repository": "CampaigningBureau/datepicker",
   "keywords": [
     "vue",
-    "bulma",
-    "vue-bulma",
-    "vue-bulma-component",
-    "vue-bulma-datepicker",
     "datepicker"
   ],
   "author": "Fangdun Cai <cfddream@gmail.com>",

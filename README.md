@@ -1,11 +1,13 @@
 # Datepicker
 
-Datepicker component is based on [flatpickr](https://github.com/chmln/flatpickr) for Vue Bulma.
+Datepicker component is based on [flatpickr](https://github.com/chmln/flatpickr) for Vue.
+
+You need to include the stylesheets yourself
 
 ## Installation
 
 ```
-$ npm install vue-bulma-datepicker --save
+$ npm install https://github.com/CampaigningBureau/datepicker --save
 ```
 
 ## Examples
@@ -18,7 +20,7 @@ $ npm install vue-bulma-datepicker --save
 </template>
 
 <script>
-import Datepicker from 'vue-bulma-datepicker'
+import Datepicker from 'vue-datepicker'
 
 export default {
   components: {
@@ -39,7 +41,7 @@ export default {
 </template>
 
 <script>
-import Datepicker from 'vue-bulma-datepicker'
+import Datepicker from 'vue-datepicker'
 
 export default {
   components: {
